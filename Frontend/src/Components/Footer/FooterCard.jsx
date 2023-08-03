@@ -52,7 +52,7 @@ export const FooterCard2 = () => {
       <br />
       <Center w="60%" m="auto" fontSize="14px">
         <Text>
-          Download Lenskart App to buy Eyeglasses, Sunglasses and Contact Lenses
+          Download Master Lens App to buy Eyeglasses, Sunglasses and Contact Lenses
         </Text>
       </Center>
     </Box>
@@ -85,6 +85,7 @@ export const FooterCard = () => {
         <Text fontSize="14px">T&C</Text>
         <Text fontSize="14px">Privacy</Text>
         <Text fontSize="14px">Disclaimer</Text>
+        <Text fontSize="14px">MadeBy<sup>©</sup>Master_Mohan</Text>
       </Grid>
       <Grid
         templateColumns={{
