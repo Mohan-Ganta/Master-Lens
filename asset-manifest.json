@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Master-lens/static/css/main.0e6c9df7.css",
-    "main.js": "/Master-lens/static/js/main.8f24091f.js",
+    "main.js": "/Master-lens/static/js/main.c5950767.js",
     "static/media/logo.png": "/Master-lens/static/media/logo.6a6fb79c1c6299aa7f8a.png",
     "index.html": "/Master-lens/index.html",
     "main.0e6c9df7.css.map": "/Master-lens/static/css/main.0e6c9df7.css.map",
-    "main.8f24091f.js.map": "/Master-lens/static/js/main.8f24091f.js.map"
+    "main.c5950767.js.map": "/Master-lens/static/js/main.c5950767.js.map"
   },
   "entrypoints": [
     "static/css/main.0e6c9df7.css",
-    "static/js/main.8f24091f.js"
+    "static/js/main.c5950767.js"
   ]
 }
